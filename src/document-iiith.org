@@ -10,9 +10,9 @@
 * Introduction
   This document describes about an activity to understand
   the process in a Software Development Life Cycle. You
-  would be exploring the labs of IIIT Hyderabad. Identify
+  would be exploring the virtual (and/or the other)labs of IIIT Hyderabad. Identify
   bugs and fix bugs in the Virtual labs along with reviewing
-  the work of other interns who are part of Virtual Labs
+  the work of other fellow interns who are part of Virtual Labs
   Outreach Internship Program
 
 * Prerequisites 
